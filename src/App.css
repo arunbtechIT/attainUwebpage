@@ -1,0 +1,179 @@
+.image{
+  z-index: -1;
+  position: relative;
+background-image: url("landing.jpg");
+width:100%;
+background-size: cover;
+height:646px;
+}
+.firstsectionheading{
+  font-size: 48px;
+color: rgb(255, 179, 0);
+padding-top: 50px;
+padding-left: 40px;
+}
+.firstsectionsubheading{
+  font-size: 24px;
+    color: white;
+    margin-bottom: 40px;
+    width: 500px;
+    padding-left: 40px;
+    padding-top: 50px;
+}
+.li{
+  list-style-type:none;
+  color: white;
+}
+.box{
+  color: rgb(255, 179, 0);
+  margin-top: -20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+  margin-right:10%;
+  margin-left: 10%;
+  border: 2px solid lightblue;
+  border-radius: 8px;
+  background-color: white;
+  box-shadow:  rgba(0,0,0,0.35) 0px 5px 15px;
+}
+.Boxcontent{
+  padding-top: 20%;
+  align-content: center;
+}
+.Boxsubcontent{
+  color:rgb(51, 102, 255);
+}
+.parabox{
+
+  margin:80px 15% 80px;
+  background-color: rgb(255, 179, 0);
+  color: white;
+}
+.cardo{
+  margin-bottom: 160px;
+}
+.cardohead{
+  color:rgb(76, 63, 191);
+
+  text-decoration-color:rgb(76, 63, 191);
+}
+
+.wrapper{
+  margin: 2rem;
+    padding: 1rem;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: rgb(18 60 105 / 12%) 0px 12px 50px 0px;
+    background: url("colleges.svg") right bottom no-repeat rgb(255, 255, 255);
+    height: 180px;
+    transition: all 0.1s ease-in-out 0s;
+}
+.wrapperstyle{
+  font-size: 24px;
+padding-top: 1rem;
+text-align: left;
+}
+.wrapperhead{
+  color:rgb(76, 63, 191);
+  text-decoration: underline;
+  text-decoration-color:rgb(76, 63, 191);
+  align:center;
+  padding-top: 200px;
+}
+
+ .wrappermain{
+   margin-bottom: 80px;
+ }
+
+
+
+
+
+ .benefitwrapper{
+   margin: 2rem 0px;
+padding: 0px 1rem;
+text-align: center;
+margin-bottom: 160px;
+ }
+ .benefitcss{
+   height: 100px;
+    overflow: hidden;
+ }
+ .benefitimage{
+       height: 120px;
+ }
+.Benefitwrapper{
+  text-align:  center;
+}
+.Benefitcontent{
+  color:rgb(76, 63, 191);
+  text-decoration: underline;
+  text-decoration-color:rgb(76, 63, 191);
+  align:center;
+  margin-bottom: 80px;
+}
+
+
+
+.sectionhead{
+  color:rgb(76, 63, 191);
+  text-decoration: underline;
+  text-decoration-color:rgb(76, 63, 191);
+  text-align: center;
+  margin-bottom: 60px;
+  }
+  .carouselcontent{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 80px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background-color: lightblue;
+  }
+.carouselbutton{
+  margin-top: 60px;
+
+}
+
+
+
+
+.highlightwrapper{
+  text-align: center;
+width: 80%;
+margin: auto;
+
+}
+.hightlightcontent{
+  font-size: 16px;
+
+}
+
+.imgwrapper{
+  height: 64px;
+overflow: hidden;
+margin-bottom: 1.5rem;
+}
+.highlightcontainer{
+  margin-bottom: 60px;
+}
+.n{
+  font-size: 32px;
+  color:#123c69;
+}
+.feesection{
+  margin-bottom: 80px;
+}
+.contactcontainer1{
+  margin-bottom: 80px;
+}
+.contactbg{
+  background-color: rgb(255, 179, 0);
+}
+.bar{
+  margin-top: 20px;
+}
+.contactmain{
+  margin-bottom: 80px;
+}
